@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Iwan Firmawan
-    tagline: Full Stack Developer
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -121,7 +121,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      This is my simple contribution research. Thank you for your read time. 
+      This is my simple contribution research.
 
     papers:
       - title: Design and Development Source Code Plagiarism with JPLAG tools study case at IT Telkom Purwokerto
