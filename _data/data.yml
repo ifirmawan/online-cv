@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: firmawaneiwan@gmail.com
     phone: +62857 2627 0879
-    website: medium.com/@iwanfirmawan #do not add http://
+    website: stackoverflow.com/story/iwan-firmawan #do not add http://
     linkedin: iwanfmw
     github: ifirmawan
     gitlab: ifirmawan
@@ -112,7 +112,7 @@ projects:
 
       - title: Scaniplag (Source Code Anti Plagiarism)
         link: "https://github.com/ifirmawan/scaniplag"
-        tagline: "Web application to ."
+        tagline: "Web application to get plagiarism percentage of source code submission, build with Codeigniter and integrated JPLAG tools."
 
       - title: Fmw Valiant
         link: "https://github.com/ifirmawan/fmw-valiant"
@@ -121,9 +121,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      This is my simple contribution research. Thank you for your read time. 
 
     papers:
       - title: Design and Development Source Code Plagiarism with JPLAG tools study case at IT Telkom Purwokerto
