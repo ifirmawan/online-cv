@@ -7,152 +7,116 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Iwan Firmawan
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    email: firmawaneiwan@gmail.com
+    phone: +62857 2627 0879
+    website: medium.com/@iwanfirmawan #do not add http://
+    linkedin: iwanfmw
+    github: ifirmawan
+    gitlab: ifirmawan
+    bitbucket: ifirmawan
+    twitter: '@iwan_false'
+    stack-overflow: '3743317/iwan' # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Bahasa
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
+      - item: Drawing
+        link: https://www.instagram.com/iwanfirmawan/ 
 
-      - item: Snowboarding
-        link:
+      - item: Coding
+        link: https://github.com/ifirmawan
 
-      - item: Cooking
-        link:
+      - item: Listening
+        link: https://soundcloud.com/ione-firmawan
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      My first code is writing employee attendances programme when i was internship member at PT MSO Purwokerto. 
+      After Graduation of Vocational HighSchool at SMK Telkom Purwokerto i try to apply in CV JVM become a Web Developer. 
+      And currently i'm still falling in love with the code.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Informatics Engineering
+      university: IT Telkom Purwokerto
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        My study programme about informatics engineering, learn how to understand what is exactly computer work,
+        how to make a program dan  . I finish my study hole life with
 
-          - Bullet point
-          - Bullet point
+          - Student National Research at 2014
+          - Member of Islamic Spiritual
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Software Engineering
+      university: SMK Telkom Purwokerto
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        First thing first when learn software engineering is solve the problem with sequentially step.
 
-          - Bullet point
-          - Bullet point
+          - Member of Islamic Spiritual
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Team Leader
+      time: 2018 - 2019
+      company: clickoding, Purwokerto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        The most important thing when u work with team is communication. I try to learn how :
 
-          - Bullet point
-          - Bullet point
+          - Make a plan
+          - Make a decission
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Web Developer
+      time: 2014 - 2018
+      company: CV JAVA MUTLI MANDIRI, Purwokerto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I learn to understand how exactly requirement is. My recently project is
 
-          - Bullet point
-          - Bullet point
+          - Wordpress Theme
+          - Wordpress Plug-in
+          - Information System built with CodeIgniter Framework.
+          - Information System built with Laravel Framework. 
 
-    - role: UI Developer
+    - role: Web Programmer Internship Programme
       time: 2012 - 2014
-      company: Amazon, London
+      company: PT MSO, Purwokerto
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        This is my first journey. learn about
 
-          - Bullet point
-          - Bullet point
+          - write the code
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is my simple contribution.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: ES3-KULA
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Private project from CV JAVA MUTLI MANDIRI."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Android Acakanca
+        link: "https://github.com/ifirmawan/android-acakanca"
+        tagline: "Mobile application to create group member."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Scaniplag (Source Code Anti Plagiarism)
+        link: "https://github.com/ifirmawan/scaniplag"
+        tagline: "Web application to ."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Fmw Valiant
+        link: "https://github.com/ifirmawan/fmw-valiant"
+        tagline: "A micro php development fundamental built via composer"
 
 publications:
     title: Publications
@@ -162,39 +126,31 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Design and Development Source Code Plagiarism with JPLAG tools study case at IT Telkom Purwokerto
+        authors: Iwan Firmawan
+        conference: Sintak UNISBANK, 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP 
+        level: 95%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 85%
 
-      - name: Angular
-        level: 98%
+      - name: Nodejs
+        level: 25%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Ionic Framework
+        level: 75%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
