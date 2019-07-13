@@ -63,23 +63,18 @@ experiences:
       company: clickoding, Purwokerto
       details: |
         Applied strong leadership talents and problem-solving skills to maintain team efficiency and organize workflows to meet any daily demand.
-        Boosted team member productivity by enhancing performance monitoring and instituting motivational approaches.
-        Collaborated with developers and performance engineers to enhance supportability and identify performance bottlenecks.
 
     - role: Full-Stack Web Developer
       time: 2014 - 2018
       company: CV JAVA MUTLI MANDIRI, Purwokerto
       details: |
         Implemented innovative systems for data collection, storage and management of customer orders.
-        Collaborated with product management to design, build and test systems.
-        Designed intuitive graphical user interfaces using knowledge of serial communications and database design to improve user experience.
 
     - role: Web Programmer Internship Programme
       time: 2012 - 2014
       company: PT MSO, Purwokerto
       details: |
-        Designed and developed attendance system .
-        Wrote code on Web Application platform using Netbeans.
+        Designed and developed attendance system built with Native PHP.
 
 projects:
     title: Projects
