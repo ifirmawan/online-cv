@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Iwan Firmawan
-    tagline: Web Developer
+    tagline: Full-Stack Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,57 +44,42 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My first code is writing employee attendances programme when i was internship member at PT MSO Purwokerto. 
-      After Graduation of Vocational HighSchool at SMK Telkom Purwokerto i try to apply in CV JVM become a Web Developer. 
-      And currently i'm still falling in love with the code.
+      Self-assured individual offering more than 5 years of experience as a Programmer. Highly trained in various technology environments. Flexible and poised promoting well-developed skills in Setup enviroment and VPS configuration.Self-directed and motivated Software Engineer experienced working effectively in dynamic environments. Fluent in PHP and Javascript programming languages, including Git (Source Code Management System) and Linux System.
 
 education:
     - degree: BSc in Informatics Engineering
       university: IT Telkom Purwokerto
       time: 2014 - 2018
       details: |
-        My study programme about informatics engineering, learn how to understand what is exactly computer work,
-        how to make a program dan  . I finish my study hole life with
-
-          - Student National Research at 2014
-          - Member of Islamic Spiritual
 
     - degree: Software Engineering
       university: SMK Telkom Purwokerto
       time: 2011 - 2014
       details: |
-        First thing first when learn software engineering is solve the problem with sequentially step.
-
-          - Member of Islamic Spiritual
 
 experiences:
     - role: Team Leader
       time: 2018 - 2019
       company: clickoding, Purwokerto
       details: |
-        The most important thing when u work with team is communication. I try to learn how :
+        Applied strong leadership talents and problem-solving skills to maintain team efficiency and organize workflows to meet any daily demand.
+        Boosted team member productivity by enhancing performance monitoring and instituting motivational approaches.
+        Collaborated with developers and performance engineers to enhance supportability and identify performance bottlenecks.
 
-          - Make a plan
-          - Make a decission
-
-    - role: Web Developer
+    - role: Full-Stack Web Developer
       time: 2014 - 2018
       company: CV JAVA MUTLI MANDIRI, Purwokerto
       details: |
-        I learn to understand how exactly requirement is. My recently project is
-
-          - Wordpress Theme
-          - Wordpress Plug-in
-          - Information System built with CodeIgniter Framework.
-          - Information System built with Laravel Framework. 
+        Implemented innovative systems for data collection, storage and management of customer orders.
+        Collaborated with product management to design, build and test systems.
+        Designed intuitive graphical user interfaces using knowledge of serial communications and database design to improve user experience.
 
     - role: Web Programmer Internship Programme
       time: 2012 - 2014
       company: PT MSO, Purwokerto
       details: |
-        This is my first journey. learn about
-
-          - write the code
+        Designed and developed attendance system .
+        Wrote code on Web Application platform using Netbeans.
 
 projects:
     title: Projects
@@ -132,19 +117,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP 
+      - name: Laravel 
         level: 95%
 
-      - name: Javascript & jQuery
+      - name: Vuejs
         level: 85%
 
-      - name: Nodejs
-        level: 25%
+      - name: Git
+        level: 75%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ionic Framework
+      - name: IonicFramework
         level: 75%
 
       - name: Sketch & Photoshop
