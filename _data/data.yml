@@ -58,6 +58,12 @@ education:
       details: |
 
 experiences:
+    - role: Web Developer
+      time: 2018 - Present
+      company: CV BAJAK LAUT MALAKA, Yogyakarta
+      details: |
+        Built web application, create a packages services using Laravel Framework and implement component via ReactJS.
+
     - role: Team Leader
       time: 2018 - 2019
       company: clickoding, Purwokerto
@@ -112,6 +118,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: ReactJS 
+        level: 55%
       - name: Laravel 
         level: 95%
 
