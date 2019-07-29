@@ -59,7 +59,7 @@ education:
 
 experiences:
     - role: Web Developer
-      time: 2018 - Present
+      time: Present
       company: CV BAJAK LAUT MALAKA, Yogyakarta
       details: |
         Built web application, create a packages services using Laravel Framework and implement component via ReactJS.
@@ -118,23 +118,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: JAVA 
+        level: 65%
       - name: ReactJS 
         level: 55%
       - name: Laravel 
         level: 95%
-
       - name: Vuejs
         level: 85%
-
       - name: Git
         level: 75%
-
       - name: HTML5 & CSS
         level: 95%
-
       - name: IonicFramework
         level: 75%
-
       - name: Sketch & Photoshop
         level: 90%
 
